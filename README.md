@@ -2,7 +2,7 @@
 
 Hey, I'm King Panda. I am a 14 y/o developer from the U.S. I usually try to make discord bots. Hopefully one day I get to become a software developer.
 
-- 🔭 I’m currently working on learning how to programm
+- 🔭 I’m currently working on learning how to program
 - 🌱 I’m currently learning Python, Javascript, and more
 - 📫 How to reach me: KingPanda#0001 on Discord!
 
