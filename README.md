@@ -4,8 +4,7 @@ Hey, I'm King Panda. I am a 14 y/o developer from the U.S. I usually try to make
 
 - 🔭 I’m currently working on learning how to program
 - 🌱 I’m currently learning Python, Javascript, and more
-- 📫 How to reach me: KingPanda#0001 on Discord!
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: KingPanda#5888 on Discord!
 - ⚡ Fun fact: I take honors classes and soon I can take A.P classes :)
 -->
 
